@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Output>
+  <OutputAssemblies>
+    <File>C:\Users\hp\source\repos\simpleAZ\simpleAZ\obj\Release\net6.0\Dotfuscator\dfout\simpleAZ.dll</File>
+  </OutputAssemblies>
+  <SatelliteAssemblies />
+  <DebugSymbols>
+    <File>C:\Users\hp\source\repos\simpleAZ\simpleAZ\obj\Release\net6.0\Dotfuscator\dfout\simpleAZ.pdb</File>
+  </DebugSymbols>
+  <MappingFile>C:\Users\hp\source\repos\simpleAZ\simpleAZ\DotfuscatorReports\Release\AnyCPU\Renaming.xml</MappingFile>
+  <ReportFiles>
+    <File>C:\Users\hp\source\repos\simpleAZ\simpleAZ\DotfuscatorReports\Release\AnyCPU\Removal.xml</File>
+    <File>C:\Users\hp\source\repos\simpleAZ\simpleAZ\DotfuscatorReports\Release\AnyCPU\SmartObfuscation.xml</File>
+  </ReportFiles>
+  <MarkupFiles />
+  <OutputAssembliesInternal>
+    <File NewPath="C:\Users\hp\source\repos\simpleAZ\simpleAZ\obj\Release\net6.0\Dotfuscator\dfout\simpleAZ.dll" OldPath="C:\Users\hp\source\repos\simpleAZ\simpleAZ\obj\Release\net6.0\simpleAZ.dll" />
+  </OutputAssembliesInternal>
+  <Pdbs>
+    <File NewPath="C:\Users\hp\source\repos\simpleAZ\simpleAZ\obj\Release\net6.0\Dotfuscator\dfout\simpleAZ.pdb" OldPath="C:\Users\hp\source\repos\simpleAZ\simpleAZ\obj\Release\net6.0\simpleAZ.pdb" />
+  </Pdbs>
+</Output>

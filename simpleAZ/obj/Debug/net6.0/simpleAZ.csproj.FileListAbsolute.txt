@@ -1,0 +1,15 @@
+C:\Users\hp\source\repos\simpleAZ\simpleAZ\bin\Debug\net6.0\simpleAZ.exe
+C:\Users\hp\source\repos\simpleAZ\simpleAZ\bin\Debug\net6.0\simpleAZ.deps.json
+C:\Users\hp\source\repos\simpleAZ\simpleAZ\bin\Debug\net6.0\simpleAZ.runtimeconfig.json
+C:\Users\hp\source\repos\simpleAZ\simpleAZ\bin\Debug\net6.0\simpleAZ.dll
+C:\Users\hp\source\repos\simpleAZ\simpleAZ\bin\Debug\net6.0\simpleAZ.pdb
+C:\Users\hp\source\repos\simpleAZ\simpleAZ\obj\Debug\net6.0\simpleAZ.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\simpleAZ\simpleAZ\obj\Debug\net6.0\simpleAZ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\simpleAZ\simpleAZ\obj\Debug\net6.0\simpleAZ.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\simpleAZ\simpleAZ\obj\Debug\net6.0\simpleAZ.AssemblyInfo.cs
+C:\Users\hp\source\repos\simpleAZ\simpleAZ\obj\Debug\net6.0\simpleAZ.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\simpleAZ\simpleAZ\obj\Debug\net6.0\simpleAZ.dll
+C:\Users\hp\source\repos\simpleAZ\simpleAZ\obj\Debug\net6.0\refint\simpleAZ.dll
+C:\Users\hp\source\repos\simpleAZ\simpleAZ\obj\Debug\net6.0\simpleAZ.pdb
+C:\Users\hp\source\repos\simpleAZ\simpleAZ\obj\Debug\net6.0\simpleAZ.genruntimeconfig.cache
+C:\Users\hp\source\repos\simpleAZ\simpleAZ\obj\Debug\net6.0\ref\simpleAZ.dll

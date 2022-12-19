@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Build>
+  <ConfigPath>C:\Users\hp\source\repos\simpleAZ\simpleAZ\DotfuscatorConfig.xml</ConfigPath>
+  <Properties>
+    <configuration>Release</configuration>
+    <platform>AnyCPU</platform>
+    <dotfuscatorplatform>.NETCoreApp</dotfuscatorplatform>
+    <androidsigningcertfingerprint></androidsigningcertfingerprint>
+    <dotfuscatorbuildsystemoutputpath>C:\Users\hp\source\repos\simpleAZ\simpleAZ\bin\Release\net6.0\</dotfuscatorbuildsystemoutputpath>
+  </Properties>
+  <InputManagement>automatic</InputManagement>
+  <DotfuscatorOutputDirectory>C:\Users\hp\source\repos\simpleAZ\simpleAZ\obj\Release\net6.0\Dotfuscator\dfout</DotfuscatorOutputDirectory>
+  <DotfuscatorResponsePath>obj\Release\net6.0\Dotfuscator\dfoutput.xml</DotfuscatorResponsePath>
+  <UserDefinedLoadPaths>
+    <LoadPath>C:\Program Files\dotnet\packs\Microsoft.NETCore.App.Ref\6.0.8\ref\net6.0\</LoadPath>
+  </UserDefinedLoadPaths>
+  <InputAssemblies>
+    <Input ItemSpec="obj\Release\net6.0\simpleAZ.dll" InputAssemblyType="" ProjectGuid="" FullPath="${configdir}\obj\Release\net6.0\simpleAZ.dll" RefID="" DotfuscatorSignAssembly="" DotfuscatorDelaySign="" DotfuscatorKeyFile="" DotfuscatorKeyContainer="" />
+  </InputAssemblies>
+  <MSBuildVersion>17.3</MSBuildVersion>
+</Build>

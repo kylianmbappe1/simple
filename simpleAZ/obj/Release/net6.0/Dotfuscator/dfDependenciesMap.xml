@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<dependency-mappings>
+  <entry>
+    <new>C:\Users\hp\source\repos\simpleAZ\simpleAZ\obj\Release\net6.0\Dotfuscator\dfout\simpleAZ.dll</new>
+    <old>C:\Users\hp\source\repos\simpleAZ\simpleAZ\obj\Release\net6.0\simpleAZ.dll</old>
+  </entry>
+  <entry>
+    <new>C:\Users\hp\source\repos\simpleAZ\simpleAZ\obj\Release\net6.0\Dotfuscator\dfout\simpleAZ.pdb</new>
+    <old>C:\Users\hp\source\repos\simpleAZ\simpleAZ\obj\Release\net6.0\simpleAZ.pdb</old>
+  </entry>
+</dependency-mappings>
